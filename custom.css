@@ -1,0 +1,20 @@
+.form-data-processing {
+    margin-bottom: 25px;
+}
+.form-data-processing input {
+    display: inline;
+    width: auto;
+    margin-bottom: 0px;
+    vertical-align: top;
+    cursor: pointer;
+}
+
+.form-data-processing div {
+    display: inline-block;
+    position: relative;
+    left: 5px;
+    top: 1px;
+}
+.form-data-processing div a {
+    display: block;
+}
